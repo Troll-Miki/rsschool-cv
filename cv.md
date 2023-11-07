@@ -12,8 +12,8 @@ Hello. You can use my short name - Alex. I want to create quality websites. I ge
 - Discord: Suslik_of_death
 
 ## Education
-Ugatu Engineer Programmer 2015-2020
-RSS shcool stage 1 2023 - now
+- Ugatu Engineer Programmer 2015-2020
+- RSS shcool stage 1 2023 - now
 
 ## Code example: 
 https://www.codewars.com/users/Troll_Miki
